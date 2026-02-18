@@ -1,0 +1,26 @@
+{
+  "document_title": "User Manual of PMKSY-Other Interventions| RFS Division",
+  "scheme_or_topic": "Pradhan Mantri Krishi Sinchayee Yojana Other Interventions",
+  "objective": "",
+  "benefits": [],
+  "eligibility": [
+    "Nodal State User has Permission to create State Nodal Users, State Users & District Nodal Users and District users."
+  ],
+  "documents_required": [],
+  "how_to_apply": [
+    "Step 1st: Login as a “State/District User”.",
+    "Step 2nd: Click on “User” menu.",
+    "Step 3rd: Create User for State (Nodal Officer).",
+    "Step 4th: Create User As a State User (Without Nodal User Permission).",
+    "Step 5th: Create User as District Users."
+  ],
+  "official_links": [
+    "pmksy.gov.in"
+  ],
+  "helpline": [
+    "Support.pmksy-dac@gov.in"
+  ],
+  "important_dates_or_frequency": "",
+  "notes": "",
+  "source_file": "PMKSY_UserManual.txt"
+}
