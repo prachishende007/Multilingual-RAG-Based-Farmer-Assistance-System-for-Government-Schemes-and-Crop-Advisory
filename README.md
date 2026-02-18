@@ -1,5 +1,6 @@
 # Multilingual-RAG-Based-Farmer-Assistance-System-for-Government-Schemes-and-Crop-Advisory
-# KrishiSaarthi – Government Scheme RAG + Knowledge Base (NLP Project)
+
+KrishiSaarthi – Government Scheme RAG + Knowledge Base (NLP Project)
 
 KrishiSaarthi is an AI-powered Government Scheme Assistant built using RAG (Retrieval Augmented Generation) for farmers.
 It allows users to ask questions about agriculture-related schemes and get accurate answers from official PDF documents.
