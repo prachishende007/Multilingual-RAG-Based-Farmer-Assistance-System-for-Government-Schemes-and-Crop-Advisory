@@ -1,0 +1,29 @@
+{
+  "document_title": "PRADHAN MANTRI KISAN SAMMAN NIDHI SCHEME",
+  "scheme_or_topic": "PM-KISAN SCHEME",
+  "objective": "To provide income support to all landholding farmers’ families in the country, having cultivable land.",
+  "benefits": [
+    "Supplement the financial needs of all landholding farmers’ families in procuring various inputs to ensure proper crop health and appropriate yields.",
+    "Transfer of Rs.6000/- per year in three installments of Rs.2000/- each every 4-month / trimester."
+  ],
+  "eligibility": [
+    "Landholding farmers’ families in the country, having cultivable land."
+  ],
+  "documents_required": [
+    "Aadhaar enrollment number with any other ID proof like Voter ID etc",
+    "IFSC Code",
+    "Bank Account Number"
+  ],
+  "how_to_apply": [
+    "Beneficiaries under the scheme are to be identified by the respective State and Union Territory.",
+    "Details of farmers are being maintained by the States / UTs either in electronic form or in manual register.",
+    "To make integrated platform available in the country to assist in benefit transfer, a platform named PM-Kisan Portal available at URL (http://pmkisan.gov.in) has been launched for uploading the farmers’ details at a single web-portal in a uniform structure."
+  ],
+  "official_links": [
+    "http://pmkisan.gov.in"
+  ],
+  "helpline": [],
+  "important_dates_or_frequency": "Every 4-month / trimester",
+  "notes": "",
+  "source_file": "PM-Kisan Samman Nidhi Scheme.txt"
+}

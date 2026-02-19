@@ -1,0 +1,32 @@
+{
+  "document_title": "Revised Operational Guidelines of PMFBY",
+  "scheme_or_topic": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+  "objective": "To provide insurance coverage to farmers against crop loss due to natural calamities",
+  "benefits": [
+    "Insurance coverage against crop loss due to natural calamities",
+    "Payment to eligible farmers (25% of sum insured)",
+    "Settlement of claims within 21 days"
+  ],
+  "eligibility": [
+    "Non-loanee cultivators",
+    "Loanee farmers with Aadhaar",
+    "Farmers with notified crops in notified insurance units"
+  ],
+  "documents_required": [
+    "Aadhaar card",
+    "Copy of notification",
+    "Sowing certificate"
+  ],
+  "how_to_apply": [
+    "Approach nearest bank branch/PACS/authorized channel partner/CSC/insurance intermediary",
+    "Fill-up online application form on National Crop Insurance Portal",
+    "Upload/submit requisite documents"
+  ],
+  "official_links": [
+    "www.pmfby.gov.in"
+  ],
+  "helpline": [],
+  "important_dates_or_frequency": "Prior to the commencement of the Kharif season, preferably in the beginning of November of previous year",
+  "notes": "",
+  "source_file": "PMFBY_OCR.txt"
+}

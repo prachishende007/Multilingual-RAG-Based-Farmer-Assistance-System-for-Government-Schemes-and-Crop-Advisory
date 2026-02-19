@@ -1,0 +1,898 @@
+Department of Agriculture, Cooperation  
+& 
+Farmers Welfare 
+ 
+Ministry of Agriculture & Farmers Welfare 
+ 
+Government of India 
+ 
+ 
+User Manual 
+for 
+PMKSY MIS (OI) 
+(pmksy.gov.in) 
+Project Execution By:  
+Rainfed Farming System (RFS) Division         
+ 
+Ministry of Agriculture & Farmers 
+Welfare        
+ 
+National Informatics Centre  
+Ministry of Electronics & Information 
+Technology 
+Pradhan Mantri Krishi Sinchayee Yojana 
+Other Interventions 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 2 
+ 
+Log-in the Application 
+ 
+Step 1st:  Login as a “State/District User”. 
+(i) 
+Enter Login/Email ID in “Login ID” Textbox. 
+(ii) 
+Enter Password in “Password” Textbox. 
+(iii) 
+Enter code shown in image in “Enter below code” Textbox. 
+(iv) 
+Click on “Login” button. 
+ 
+ 
+                   (After Login) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Enter Login/Email ID 
+Enter Password  
+(Case Sensitive) 
+Enter below Image 
+code 
+Click Login 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 3 
+ 
+Create Nodal State User 
+ 
+Step 2nd: Click on “User” menu. 
+(i) 
+Click on “Create User” Sub-Menu. 
+ 
+                                                       
+ 
+ 
+(After Click on “Create User”) 
+ 
+Click 
+Here 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 4 
+ 
+New User Registration (Create State Nodal User) 
+ 
+(Select Level as State for State level user & select District for District Level User) 
+ 
+Select Level as 
+State/District 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 5 
+ 
+ 
+                                             (After Select as “State”) 
+             Step 3rd: Create User for State (Nodal Officer). 
+(i) 
+Select Level “State” on Level Dropdown box. 
+(ii) 
+Fill all mandatory fields In User Registration form. 
+(iii) 
+To Create State User as Nodal State User then select the “Is Nodal User” Checkbox. 
+(iv) 
+Click on Submit Button (State User Created as Nodal Officer). 
+ 
+Click here 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 6 
+ 
+ 
+ 
+ 
+                                                                               (Create User as a “Nodal State officer”) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Enter User Name 
+Enter Date of Birth 
+Select Designation 
+Enter Contact Number 
+Enter Email as Login 
+Create Password (Must 
+contain one Upper 
+Alphabet, one Small 
+Alphabet, one special 
+symbol, one number and 
+minimum of 8 character 
+If “Create As Nodal State 
+User” Then Select Checkbox 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 7 
+ 
+ 
+ 
+ 
+Note:  (I) Nodal State User has Permission to create State Nodal Users, State Users & District Nodal        
+Users and District users.    
+            (ii) Email used will be your Login ID. 
+            (iii) State, Ministry and Department Textbox are auto filled. 
+ 
+ 
+Click on Submit (User 
+created as state nodal 
+officer) 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 8 
+ 
+Create State User 
+ 
+ 
+               
+ 
+ 
+Step 4th: Create User As a State User (Without Nodal User Permission). 
+(i) 
+Select Level “State” on Level Dropdown list. 
+(ii) 
+Fill All Mandatory Fields In User Registration Form. 
+(iii) 
+To Create State User without permission of Nodal State User then Uncheck/Blank the 
+“Is Nodal User” Checkbox. 
+(iv) 
+Click on Submit Button (State User Created Without Permission of Nodal Officer). 
+Note:  (i) State Admin User have No Permission to create District Users.   
+            (ii) Email used will be your Login ID. 
+           (iii) State, Ministry and Department textbox are auto filled. 
+ 
+If Create State User (Without 
+Nodal User) then Uncheck 
+the Checkbox 
+Click on Submit (User Created As 
+State User without Nodal User 
+Permission) 
+Click 
+Here 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 9 
+ 
+Create District User 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Step 5th: Create User as District Users.  
+(i) 
+Login as a Nodal  State User. 
+(ii) 
+Click on “Create User” tab. 
+(iii) 
+Select “District” in Level Dropdown list. 
+(iv) 
+Fill all mandatory Fields in User Registration Form. 
+(v) 
+Click on Submit (District User Created). 
+ 
+Note: (i) Only Nodal State User have permission to create District user. 
+           (ii) State, Ministry and Department textbox are auto filled. 
+ 
+ 
+Click Here 
+Select 
+District 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Select District 
+Enter Name 
+Enter Date of 
+Select Designation 
+Enter Number 
+Enter Email (Taken as 
+Create Password 
+Enter Password Same 
+as Password Textbox 
+Click on Submit (District User Created) 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 11 
+ 
+New User – Reset Password 
+ 
+Note:  Whenever Both State and District User Login for First Time over Website, Change Password. 
+Form Shows User must change password. 
+ 
+ 
+ 
+ 
+Enter Existing Password 
+in Old Password 
+(Case Sensitive) 
+Create New Password 
+(Case Sensitive) 
+Enter Password Same as 
+New Password 
+(Case Sensitive) 
+Click on Submit (Change 
+Password) 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 12 
+ 
+                               Forgot Password 
+ 
+                                            
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Click here 
+Click 
+Here 
+Enter Current User  
+Password here
+Enter New Password 
+Re-enter 
+Password  
+Click here for 
+Submit
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 13 
+ 
+Add District Irrigation Plan (DIP) Target 
+Proposed Plan  Please Select the “DIP Target” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Click the DIP Target 
+Select Financial Year 
+Select District 
+Select Sanctioned 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 14 
+ 
+ 
+Enter the proper data 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 15 
+ 
+ 
+ 
+ *User wants to discard current entry entered in the rows, Click on reset button. 
+Click Here for Save 
+Click here for reset 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 16 
+ 
+For edit click here 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 17 
+ 
+ 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 18 
+ 
+Editable values enter here 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 19 
+ 
+ 
+ 
+ 
+ 
+For save click here 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 20 
+ 
+Add Annual Action Plan (AAP) Target 
+ 
+Proposed Plan  Please select the “AAP Target” 
+ 
+ 
+ 
+ 
+ 
+Select the AAP Target 
+Select Financial Year 
+Select District 
+Select Sanctioned 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 21 
+ 
+ 
+ 
+ 
+ 
+Enter the proper 
+values 
+Click here for Save 
+Click here for edit 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 22 
+ 
+ 
+ 
+ 
+ *User wants to discard current entry entered in the rows, Click on reset button. 
+ 
+ 
+ 
+Enter the editable values 
+Click here for save 
+Click here for reset 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 23 
+ 
+Add Achievement Target 
+Proposed Plan ->Achievement Target 
+ 
+ 
+ 
+ 
+Click here for 
+Achievement Target 
+Select Financial Year 
+Select District 
+Select Month 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 24 
+ 
+ 
+ 
+Click here for edit 
+Click here for save 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Enter the editable 
+values 
+Click here for Save 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 26 
+ 
+Document Upload 
+    Proposed Plan -> Document Upload 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Click here for Document Upload 
+Select the document 
+category 
+Select the Financial 
+Year 
+Enter details/description 
+Click here for save 
+Select the document 
+for upload 
+Click here for edit 
+Click here for remove 
+Select District 
+Select Date 
+Click Here For Load 
+Document 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 27 
+ 
+Add New Beneficiary 
+Proposed Plan -> Add Beneficiary 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Click here for Add beneficiary 
+Click the picture for upload 
+Select Financial Year 
+Select District 
+Select Village 
+Select Block 
+Select State 
+Enter Khasra No 
+Enter Area 
+Select 
+Activity 
+Select Farmers Class 
+Select Source of Water 
+Enter 
+Name 
+Enter Father Name 
+Enter Aadhar No 
+Enter 
+Date of 
+Birth 
+Enter Email 
+Enter Mobile 
+Select if Aadhar & Bank Account Linked 
+Select 
+Category 
+Enter Address 
+Enter Pin Code 
+Select benefit type 
+Click 
+here for 
+Save 
+Click here for Reset 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 28 
+ 
+For the case of Cash Benefit 
+ 
+For the case of Kind Benefit 
+ 
+For Search Beneficiary  
+ 
+ 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 29 
+ 
+ Fund Released 
+Reports -> Fund Released  
+ 
+ 
+Select Financial 
+Year 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 30 
+ 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 31 
+ 
+ District Irrigation Plan (DIP) Target 
+Reports -> DIP Target 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Click here for DIP Target 
+Select financial Year 
+Select District Sanctioned 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 32 
+ 
+ 
+ 
+ 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 33 
+ 
+Annual Action Plan (AAP) Target 
+Reports -> AAP Target 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Click here for AAP Target Report 
+Select Financial Year 
+Select sanctioned 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 34 
+ 
+Achievement Reports 
+Reports -> Achievement Report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Click here for 
+Achievement Reports 
+Select report type 
+Select Department 
+Select Duration 
+Select Year 
+Select Ministry 
+Select report 
+duration 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 35 
+ 
+ 
+ 
+ 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 36 
+ 
+ 
+ 
+ 
+ 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 37 
+ 
+ 
+ 
+Same procedure for DIP : 
+StateDIP/Annually/Half-Yearly/Quarterly/Monthly  
+DistrictDIP/Annually/Half-Yearly/Quarterly/Monthly 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 38 
+ 
+One Touch Format 
+Reports -> One Touch Format 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Select Financial Year 
+Select State 
+Click here One Touch 
+Format report 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 39 
+ 
+District Irrigation Plan (DIP) Document Uploaded 
+Reports -> DIP Document Uploaded 
+ 
+ 
+ 
+ 
+ 
+ 
+Click here DIP Document 
+uploaded report 
+Select Financial Year 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 40 
+ 
+ 
+ 
+ 
+ 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 41 
+ 
+Document Uploaded Consolidated 
+Reports -> Document Uploaded Consolidated 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Click here for Document 
+Uploaded Consolidated 
+report 
+Select Financial Year 
+Select Category 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 42 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 43 
+ 
+Spent Balance 
+Reports -> Spent Balance  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Click here for Spent 
+balance report 
+Select State 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 44 
+ 
+        Consolidate Activity wise One Touch Format  
+Reports -> Consolidate Activity Wise One Touch Format 
+ 
+ 
+ 
+ 
+ 
+ 
+S 
+ 
+ 
+Click here for 
+Consolidate Activity 
+wise report 
+Select Financial Year 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 45 
+ 
+Beneficiary Count  
+Reports -> Beneficiary count 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Click here for Beneficiary 
+count report 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 46 
+ 
+Beneficiary Details  
+Reports -> Beneficiary Details 
+ 
+ 
+ 
+ 
+ 
+Select parameters for search 
+ 
+Click here for Beneficiary 
+details report 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 47 
+ 
+ 
+ 
+ 
+
+Pradhan Mantri Krishi Sinchayee Yojana Other Interventions 
+ 
+User Manual of PMKSY-Other Interventions| RFS Division 
+Page 48 
+ 
+For Support /Query contact at 
+ 
+ 
+ 
+ 
+ 
+ 
+Support.pmksy-dac@gov.in 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rainfed Farming System, 
+Department of Agriculture and Farmers Welfare 
+Ministry of Agriculture and Farmers Welfare 
+Government of India

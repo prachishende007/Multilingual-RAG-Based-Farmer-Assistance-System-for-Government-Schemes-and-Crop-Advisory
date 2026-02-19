@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+
+# Virtual env
+.venv/
+venv/
+ENV/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vector DB (ChromaDB storage)
+vector_db/
+chroma.sqlite3
+*.sqlite3
+
+# Secrets
+.env
+.env.*
