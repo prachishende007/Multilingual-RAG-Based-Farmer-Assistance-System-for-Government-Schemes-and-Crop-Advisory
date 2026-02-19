@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>KrishiSaarthi — AI Farmer Assistance</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+</head>
+<body>
+
+  <!-- ═══════════════════════════ NAVBAR ═══════════════════════════ -->
+  <nav class="navbar" id="navbar">
+    <div class="nav-inner">
+      <a href="#home" class="nav-logo">
+        <span class="logo-leaf">🌾</span>
+        <span class="logo-text">Krishi<span class="logo-accent">Saarthi</span></span>
+      </a>
+      <ul class="nav-links">
+        <li><a href="#home">Home</a></li>
+        <li><a href="#features">Features</a></li>
+        <li><a href="#chat">Chat</a></li>
+        <li><a href="#schemes">Schemes</a></li>
+        <li><a href="#how-it-works">How It Works</a></li>
+      </ul>
+      <a href="#chat" class="btn btn-gold nav-cta">
+        <i class="fas fa-comment-dots"></i> Ask Now
+      </a>
+      <button class="hamburger" id="hamburger" aria-label="Menu">
+        <i class="fas fa-bars"></i>
+      </button>
+    </div>
+    <div class="mobile-menu" id="mobile-menu">
+      <a href="#home">Home</a>
+      <a href="#features">Features</a>
+      <a href="#chat">Chat</a>
+      <a href="#schemes">Schemes</a>
+      <a href="#how-it-works">How It Works</a>
+      <a href="#chat" class="btn btn-primary mt-8">Start Chatting</a>
+    </div>
+  </nav>
+
+  <!-- ═══════════════════════════ HERO ═══════════════════════════ -->
+  <section id="home" class="hero">
+    <div class="hero-bg">
+      <div class="orb orb-1"></div>
+      <div class="orb orb-2"></div>
+      <div class="orb orb-3"></div>
+      <div class="hero-grid"></div>
+    </div>
+    <div class="hero-floats" aria-hidden="true">
+      <span class="fi fi-1">🌾</span>
+      <span class="fi fi-2">🚜</span>
+      <span class="fi fi-3">🌱</span>
+      <span class="fi fi-4">💧</span>
+      <span class="fi fi-5">🌿</span>
+    </div>
+    <div class="container hero-content animate-hero">
+      <div class="hero-badge">
+        <i class="fas fa-robot"></i>
+        AI-Powered &nbsp;·&nbsp; Multilingual &nbsp;·&nbsp; Government Schemes
+      </div>
+      <h1 class="hero-title">
+        Empowering Farmers<br/>
+        with <span class="gold-text">Smart Assistance</span>
+      </h1>
+      <p class="hero-sub">
+        Instant, accurate answers about government schemes, subsidies, eligibility
+        criteria, and crop advisory — powered by advanced RAG technology and Llama&nbsp;3.1.
+      </p>
+      <div class="hero-btns">
+        <a href="#chat" class="btn btn-primary btn-lg">
+          <i class="fas fa-comment-dots"></i> Start Chatting
+        </a>
+        <a href="#schemes" class="btn btn-ghost btn-lg">
+          <i class="fas fa-book-open"></i> Explore Schemes
+        </a>
+      </div>
+      <div class="hero-stats">
+        <div class="stat">
+          <span class="stat-num" data-target="14">0</span>
+          <span class="stat-lbl">Schemes Covered</span>
+        </div>
+        <div class="stat-sep"></div>
+        <div class="stat">
+          <span class="stat-num" data-target="2085">0</span>
+          <span class="stat-lbl">Knowledge Chunks</span>
+        </div>
+        <div class="stat-sep"></div>
+        <div class="stat">
+          <span class="stat-num">∞</span>
+          <span class="stat-lbl">Questions Answered</span>
+        </div>
+      </div>
+    </div>
+    <div class="hero-scroll-hint">
+      <i class="fas fa-chevron-down"></i>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════ FEATURES ═══════════════════════════ -->
+  <section id="features" class="section features-section">
+    <div class="container">
+      <div class="section-head">
+        <span class="section-tag">Why KrishiSaarthi</span>
+        <h2 class="section-title">Built for Every Farmer</h2>
+        <p class="section-sub">Combining cutting-edge AI with comprehensive government scheme knowledge to serve farmers across India.</p>
+      </div>
+      <div class="features-grid">
+
+        <div class="feat-card reveal">
+          <div class="feat-icon" style="background:rgba(22,163,74,.12);color:#16A34A;">
+            <i class="fas fa-brain"></i>
+          </div>
+          <h3>RAG-Powered Intelligence</h3>
+          <p>Retrieval-Augmented Generation ensures answers are grounded in verified government documents, eliminating hallucinations.</p>
+        </div>
+
+        <div class="feat-card reveal">
+          <div class="feat-icon" style="background:rgba(14,165,233,.12);color:#0EA5E9;">
+            <i class="fas fa-language"></i>
+          </div>
+          <h3>Multilingual Support</h3>
+          <p>Ask questions in your native language. Our system understands and responds in a way every farmer can follow.</p>
+        </div>
+
+        <div class="feat-card reveal">
+          <div class="feat-icon" style="background:rgba(245,158,11,.12);color:#F59E0B;">
+            <i class="fas fa-file-shield"></i>
+          </div>
+          <h3>Source-Verified Answers</h3>
+          <p>Every response cites the source document — complete transparency and trust for critical government information.</p>
+        </div>
+
+        <div class="feat-card reveal">
+          <div class="feat-icon" style="background:rgba(139,92,246,.12);color:#8B5CF6;">
+            <i class="fas fa-bolt"></i>
+          </div>
+          <h3>Instant Responses</h3>
+          <p>Powered by Groq's ultra-fast inference engine — get answers in seconds, not minutes.</p>
+        </div>
+
+        <div class="feat-card reveal">
+          <div class="feat-icon" style="background:rgba(236,72,153,.12);color:#EC4899;">
+            <i class="fas fa-seedling"></i>
+          </div>
+          <h3>Crop Advisory</h3>
+          <p>Beyond schemes — get guidance on soil health, organic farming, irrigation, and modern agriculture techniques.</p>
+        </div>
+
+        <div class="feat-card reveal">
+          <div class="feat-icon" style="background:rgba(6,182,212,.12);color:#06B6D4;">
+            <i class="fas fa-database"></i>
+          </div>
+          <h3>Always Up-to-Date</h3>
+          <p>Knowledge base built from the latest official guidelines and scheme documents directly from government portals.</p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════ CHAT ═══════════════════════════ -->
+  <section id="chat" class="section chat-section">
+    <div class="container">
+      <div class="section-head">
+        <span class="section-tag">Interactive Demo</span>
+        <h2 class="section-title">Ask KrishiSaarthi</h2>
+        <p class="section-sub">Get real-time answers from our AI assistant powered by verified government scheme documents.</p>
+      </div>
+      <div class="chat-layout">
+
+        <!-- Sidebar -->
+        <aside class="chat-sidebar">
+          <div class="sidebar-card">
+            <h4 class="sidebar-title"><i class="fas fa-lightbulb"></i> Try Asking</h4>
+            <div class="suggestions">
+              <button class="chip" onclick="useSuggestion(this)">What is PM-KISAN scheme?</button>
+              <button class="chip" onclick="useSuggestion(this)">How to apply for crop insurance?</button>
+              <button class="chip" onclick="useSuggestion(this)">Eligibility for PMFBY scheme</button>
+              <button class="chip" onclick="useSuggestion(this)">What is Soil Health Card?</button>
+              <button class="chip" onclick="useSuggestion(this)">Benefits of organic farming scheme</button>
+              <button class="chip" onclick="useSuggestion(this)">How to get farm equipment subsidy?</button>
+              <button class="chip" onclick="useSuggestion(this)">What is PMKSY irrigation scheme?</button>
+            </div>
+          </div>
+          <div class="sidebar-card">
+            <h4 class="sidebar-title"><i class="fas fa-folder-open"></i> Knowledge Base</h4>
+            <ul class="kb-list">
+              <li><i class="fas fa-file-alt"></i> PM-KISAN Scheme</li>
+              <li><i class="fas fa-file-alt"></i> PMFBY (Crop Insurance)</li>
+              <li><i class="fas fa-file-alt"></i> PMKSY (Irrigation)</li>
+              <li><i class="fas fa-file-alt"></i> PKVY (Organic Farming)</li>
+              <li><i class="fas fa-file-alt"></i> SMAM (Equipment)</li>
+              <li><i class="fas fa-file-alt"></i> Soil Health Card</li>
+              <li class="kb-more">+8 more documents</li>
+            </ul>
+          </div>
+        </aside>
+
+        <!-- Chat window -->
+        <div class="chat-window">
+          <div class="chat-header">
+            <div class="chat-avatar-wrap">
+              <i class="fas fa-robot"></i>
+            </div>
+            <div class="chat-meta">
+              <span class="chat-name">KrishiSaarthi AI</span>
+              <span class="online-dot"></span>
+              <span class="online-text">Online</span>
+            </div>
+            <button class="clear-chat-btn" onclick="clearChat()" title="Clear conversation">
+              <i class="fas fa-trash-alt"></i>
+            </button>
+          </div>
+
+          <div class="chat-messages" id="chat-messages">
+            <div class="msg bot-msg">
+              <div class="msg-avatar"><i class="fas fa-robot"></i></div>
+              <div class="msg-bubble">
+                <p>Namaste! 🙏 I'm KrishiSaarthi, your AI farming assistant.</p>
+                <p>I can help you with:</p>
+                <ul>
+                  <li>Government scheme eligibility &amp; benefits</li>
+                  <li>How to apply for subsidies &amp; insurance</li>
+                  <li>Crop advisory &amp; organic farming</li>
+                  <li>Irrigation and soil health information</li>
+                </ul>
+                <p>What would you like to know today?</p>
+                <div class="msg-time">Just now</div>
+              </div>
+            </div>
+          </div>
+
+          <div class="chat-input-bar">
+            <div class="input-wrap">
+              <input
+                type="text"
+                id="user-input"
+                class="chat-input"
+                placeholder="Ask about any farming scheme or crop advisory..."
+                autocomplete="off"
+                onkeydown="handleKey(event)"
+              />
+              <button class="send-btn" id="send-btn" onclick="sendMessage()">
+                <i class="fas fa-paper-plane"></i>
+              </button>
+            </div>
+            <p class="input-hint">Press Enter to send &nbsp;·&nbsp; Powered by Groq + Llama&nbsp;3.1</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════ SCHEMES ═══════════════════════════ -->
+  <section id="schemes" class="section schemes-section">
+    <div class="container">
+      <div class="section-head">
+        <span class="section-tag">Knowledge Base</span>
+        <h2 class="section-title">Government Schemes Covered</h2>
+        <p class="section-sub">Comprehensive database of major Indian agricultural schemes, programs, and policies.</p>
+      </div>
+      <div class="schemes-grid">
+
+        <div class="scheme-card reveal">
+          <div class="scheme-icon" style="background:linear-gradient(135deg,#16A34A,#4ADE80);">₹</div>
+          <h4>PM-KISAN</h4>
+          <p>Pradhan Mantri Kisan Samman Nidhi — ₹6,000/year direct income support to eligible farmers.</p>
+          <span class="scheme-tag income">Income Support</span>
+        </div>
+
+        <div class="scheme-card reveal">
+          <div class="scheme-icon" style="background:linear-gradient(135deg,#0EA5E9,#38BDF8);">🌾</div>
+          <h4>PMFBY</h4>
+          <p>Pradhan Mantri Fasal Bima Yojana — Comprehensive crop insurance at very low premium rates.</p>
+          <span class="scheme-tag insurance">Crop Insurance</span>
+        </div>
+
+        <div class="scheme-card reveal">
+          <div class="scheme-icon" style="background:linear-gradient(135deg,#8B5CF6,#A78BFA);">💧</div>
+          <h4>PMKSY</h4>
+          <p>Pradhan Mantri Krishi Sinchayee Yojana — Ensuring irrigation water access for every farm field.</p>
+          <span class="scheme-tag irrigation">Irrigation</span>
+        </div>
+
+        <div class="scheme-card reveal">
+          <div class="scheme-icon" style="background:linear-gradient(135deg,#F59E0B,#FCD34D);">🌿</div>
+          <h4>PKVY</h4>
+          <p>Paramparagat Krishi Vikas Yojana — Promoting organic farming through cluster development.</p>
+          <span class="scheme-tag organic">Organic Farming</span>
+        </div>
+
+        <div class="scheme-card reveal">
+          <div class="scheme-icon" style="background:linear-gradient(135deg,#EC4899,#F9A8D4);">🚜</div>
+          <h4>SMAM</h4>
+          <p>Sub Mission on Agricultural Mechanization — Subsidized access to modern farm equipment.</p>
+          <span class="scheme-tag equipment">Equipment</span>
+        </div>
+
+        <div class="scheme-card reveal">
+          <div class="scheme-icon" style="background:linear-gradient(135deg,#14B8A6,#5EEAD4);">🧪</div>
+          <h4>Soil Health Card</h4>
+          <p>Free soil testing and advisory cards for optimized fertilizer use and higher crop yields.</p>
+          <span class="scheme-tag soil">Soil Advisory</span>
+        </div>
+
+        <div class="scheme-card reveal">
+          <div class="scheme-icon" style="background:linear-gradient(135deg,#EF4444,#FCA5A5);">👴</div>
+          <h4>PMKMY</h4>
+          <p>Pradhan Mantri Kisan Mandhan Yojana — Monthly pension scheme for small and marginal farmers.</p>
+          <span class="scheme-tag pension">Pension</span>
+        </div>
+
+        <div class="scheme-card reveal">
+          <div class="scheme-icon" style="background:linear-gradient(135deg,#6366F1,#A5B4FC);">📈</div>
+          <h4>PM-RKVY</h4>
+          <p>Rashtriya Krishi Vikas Yojana — Comprehensive agricultural development and infrastructure program.</p>
+          <span class="scheme-tag dev">Development</span>
+        </div>
+
+        <div class="scheme-card reveal">
+          <div class="scheme-icon" style="background:linear-gradient(135deg,#F97316,#FDBA74);">🏛️</div>
+          <h4>ATMA</h4>
+          <p>Agricultural Technology Management Agency — Farmer training and technology adoption program.</p>
+          <span class="scheme-tag tech">Technology</span>
+        </div>
+
+        <div class="scheme-card reveal">
+          <div class="scheme-icon" style="background:linear-gradient(135deg,#0D9488,#2DD4BF);">🗺️</div>
+          <h4>Maharashtra Schemes</h4>
+          <p>State-specific agricultural programs and subsidies for Maharashtra farmers.</p>
+          <span class="scheme-tag state">State Schemes</span>
+        </div>
+
+        <div class="scheme-card reveal">
+          <div class="scheme-icon" style="background:linear-gradient(135deg,#7C3AED,#C4B5FD);">📋</div>
+          <h4>Scheme Guidelines</h4>
+          <p>General guidelines and operational frameworks across multiple agricultural programs.</p>
+          <span class="scheme-tag guide">Guidelines</span>
+        </div>
+
+        <div class="scheme-card reveal">
+          <div class="scheme-icon" style="background:linear-gradient(135deg,#0284C7,#7DD3FC);">🌐</div>
+          <h4>Allied Sector</h4>
+          <p>Agriculture and allied sector scheme reports covering fisheries, horticulture, and livestock.</p>
+          <span class="scheme-tag allied">Allied Sector</span>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════ HOW IT WORKS ═══════════════════════════ -->
+  <section id="how-it-works" class="section how-section">
+    <div class="container">
+      <div class="section-head">
+        <span class="section-tag">Technology</span>
+        <h2 class="section-title">How KrishiSaarthi Works</h2>
+        <p class="section-sub">A powerful RAG pipeline that delivers accurate, source-backed answers for every farmer query.</p>
+      </div>
+
+      <div class="steps">
+        <div class="step-card reveal">
+          <div class="step-num">01</div>
+          <div class="step-icon"><i class="fas fa-comment-question"></i></div>
+          <h3>You Ask a Question</h3>
+          <p>Type your question in simple language about any government scheme, crop advisory, or farming subsidy.</p>
+        </div>
+        <div class="step-arrow"><i class="fas fa-arrow-right"></i></div>
+        <div class="step-card reveal">
+          <div class="step-num">02</div>
+          <div class="step-icon"><i class="fas fa-magnifying-glass"></i></div>
+          <h3>AI Retrieves Context</h3>
+          <p>The RAG engine searches 2,085+ knowledge chunks from 14 official government documents to find the most relevant passages.</p>
+        </div>
+        <div class="step-arrow"><i class="fas fa-arrow-right"></i></div>
+        <div class="step-card reveal">
+          <div class="step-num">03</div>
+          <div class="step-icon"><i class="fas fa-robot"></i></div>
+          <h3>LLM Generates Answer</h3>
+          <p>Groq's Llama 3.1 synthesizes retrieved context into a clear, accurate response — with source references you can verify.</p>
+        </div>
+      </div>
+
+      <div class="tech-stack">
+        <h3>Powered By</h3>
+        <div class="tech-badges">
+          <span class="t-badge"><i class="fas fa-database"></i> ChromaDB</span>
+          <span class="t-badge"><i class="fas fa-vector-square"></i> Sentence Transformers</span>
+          <span class="t-badge"><i class="fas fa-bolt"></i> Groq API</span>
+          <span class="t-badge"><i class="fas fa-brain"></i> Llama 3.1</span>
+          <span class="t-badge"><i class="fab fa-python"></i> Python</span>
+          <span class="t-badge"><i class="fas fa-file-pdf"></i> PyMuPDF</span>
+          <span class="t-badge"><i class="fas fa-flask"></i> Flask</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+  <footer class="footer">
+    <div class="container footer-inner">
+      <div class="footer-brand">
+        <a href="#home" class="nav-logo">
+          <span class="logo-leaf">🌾</span>
+          <span class="logo-text" style="color:white;">Krishi<span class="logo-accent">Saarthi</span></span>
+        </a>
+        <p>AI-powered assistance for Indian farmers — connecting rural India with government schemes and modern farming knowledge.</p>
+      </div>
+      <div class="footer-col">
+        <h5>Navigate</h5>
+        <a href="#home">Home</a>
+        <a href="#features">Features</a>
+        <a href="#chat">Chat</a>
+        <a href="#schemes">Schemes</a>
+        <a href="#how-it-works">How It Works</a>
+      </div>
+      <div class="footer-col">
+        <h5>Key Schemes</h5>
+        <a href="#schemes">PM-KISAN</a>
+        <a href="#schemes">PMFBY</a>
+        <a href="#schemes">PMKSY</a>
+        <a href="#schemes">PKVY</a>
+        <a href="#schemes">SMAM</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2025 KrishiSaarthi. Built with ❤️ for Indian Farmers.</span>
+      <span>Powered by Groq · ChromaDB · Sentence Transformers</span>
+    </div>
+  </footer>
+
+  <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>

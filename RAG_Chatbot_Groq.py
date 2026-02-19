@@ -2,6 +2,9 @@ import os
 import chromadb
 from sentence_transformers import SentenceTransformer
 from groq import Groq
+from dotenv import load_dotenv
+
+load_dotenv()
 
 DB_DIR = "vector_db"
 MODEL_NAME = "all-MiniLM-L6-v2"
