@@ -33,9 +33,9 @@
 {
   "document_title": "AgricultureAlliedSector_SchemesReports",
   "scheme_or_topic": "Animal Husbandry Infrastructure Development Fund (AHIDF)",
-  "objective": "improve the infrastructure for animal husbandry",
+  "objective": "develop infrastructure for animal husbandry",
   "benefits": [
-    "improved infrastructure for animal husbandry"
+    "infrastructure development"
   ],
   "eligibility": [
     "Central Department of Animal Husbandry and Dairying"
@@ -44,7 +44,7 @@
     "s (SMSP)13.05.2014.doc"
   ],
   "how_to_apply": [
-    ""
+    "Contact Central Department of Animal Husbandry and Dairying"
   ],
   "official_links": [
     "diragrijmu.nic.in"
@@ -60,9 +60,9 @@
 {
   "document_title": "AgricultureAlliedSector_SchemesReports",
   "scheme_or_topic": "Seed Processing Plant and Storage Godown under Krishonnati Yojana",
-  "objective": "improve the seed processing and storage facilities",
+  "objective": "provide financial assistance for seed processing and storage",
   "benefits": [
-    "improved seed processing and storage facilities"
+    "financial assistance"
   ],
   "eligibility": [
     "Ministry of Agriculture & Farmers Welfare (MoA&FW)"
@@ -71,7 +71,7 @@
     ""
   ],
   "how_to_apply": [
-    ""
+    "Contact Ministry of Agriculture & Farmers Welfare (MoA&FW)"
   ],
   "official_links": [
     ""
@@ -86,10 +86,37 @@
 
 {
   "document_title": "AgricultureAlliedSector_SchemesReports",
-  "scheme_or_topic": "Cluster Development Programme (CDP)",
-  "objective": "promote integrated and market-led development of preproduction, production, post-harvest, logistics, branding, and marketing activities",
+  "scheme_or_topic": "Green Revolution – Krishonnati Yojana",
+  "objective": "implement an umbrella scheme for the agriculture sector",
   "benefits": [
-    "promote integrated and market-led development of preproduction, production, post-harvest, logistics, branding, and marketing activities"
+    "financial assistance for seed production, seed certification, farmers training, seed processing and seed storage godowns"
+  ],
+  "eligibility": [
+    "Department of Agriculture, Government of Maharashtra"
+  ],
+  "documents_required": [
+    ""
+  ],
+  "how_to_apply": [
+    "Contact Department of Agriculture, Government of Maharashtra"
+  ],
+  "official_links": [
+    "maharashtra.gov.in"
+  ],
+  "helpline": [
+    ""
+  ],
+  "important_dates_or_frequency": "",
+  "notes": "",
+  "source_file": "AgricultureAlliedSector_SchemesReports.txt"
+}
+
+{
+  "document_title": "AgricultureAlliedSector_SchemesReports",
+  "scheme_or_topic": "Cluster Development Programme (CDP)",
+  "objective": "promote integrated and market-led development of horticulture clusters",
+  "benefits": [
+    "financial assistance"
   ],
   "eligibility": [
     "Ministry of Agriculture and Farmers Welfare (MoA&FW)"
@@ -98,7 +125,7 @@
     "Operational Guidelines"
   ],
   "how_to_apply": [
-    ""
+    "Contact Ministry of Agriculture and Farmers Welfare (MoA&FW)"
   ],
   "official_links": [
     "nhb.gov.in"
@@ -116,16 +143,16 @@
   "scheme_or_topic": "Bhausaheb Fundkar Falbaug Lagwad Yojana",
   "objective": "enhance income of farmers, create employment for young farmers, change cropping pattern, create a sustainable source of income and increase production of raw materials required for agro-processing industries",
   "benefits": [
-    "enhance income of farmers, create employment for young farmers, change cropping pattern, create a sustainable source of income and increase production of raw materials required for agro-processing industries"
+    "100 per cent subsidy"
   ],
   "eligibility": [
     "farmers not registered under MGNREGA"
   ],
   "documents_required": [
-    "Government Resolution: Scheme- BhausahebPhundkarFalbaagLagvadYojana.pdf"
+    "Scheme- BhausahebPhundkarFalbaagLagvadYojana.pdf"
   ],
   "how_to_apply": [
-    ""
+    "Contact Government of Maharashtra"
   ],
   "official_links": [
     "maharashtra.gov.in"
@@ -143,46 +170,19 @@
   "scheme_or_topic": "Resilient Agriculture - POCRA",
   "objective": "enhance climate-resilience and profitability of small holder farming systems",
   "benefits": [
-    "enhance climate-resilience and profitability of small holder farming systems"
+    "financial assistance"
   ],
   "eligibility": [
-    "farmer producer companies/ farme"
+    "farmer producer companies/ farmers"
   ],
   "documents_required": [
     ""
   ],
   "how_to_apply": [
-    ""
+    "Contact Government of Maharashtra"
   ],
   "official_links": [
     "mahapocra.gov.in"
-  ],
-  "helpline": [
-    ""
-  ],
-  "important_dates_or_frequency": "",
-  "notes": "",
-  "source_file": "AgricultureAlliedSector_SchemesReports.txt"
-}
-
-{
-  "document_title": "AgricultureAlliedSector_SchemesReports",
-  "scheme_or_topic": "CROPSAP",
-  "objective": "surveillance of pest & diseases of major crops and provide advisories for management of pest & diseases",
-  "benefits": [
-    "surveillance of pest & diseases of major crops and provide advisories for management of pest & diseases"
-  ],
-  "eligibility": [
-    "farmers"
-  ],
-  "documents_required": [
-    ""
-  ],
-  "how_to_apply": [
-    ""
-  ],
-  "official_links": [
-    "maharashtra.gov.in"
   ],
   "helpline": [
     ""
